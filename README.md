@@ -1,1 +1,3 @@
 # QA_FinalProject
+### Sham Nemer
+#### At first I looked through all the code in the shop.py file, analyzing it to see if there are any clear errors that stood out. I chose a specific error category and looked through the code for that error. Then when the hints were released that really helped give me a better idea of what exactly to look for each of those error categories. I went through each hint one by one and looked through the code for a bug corresponding to that hint. This really taught me how to properly read and interpret code because there are many errors that we wouldn't think of at first glance or thought.
